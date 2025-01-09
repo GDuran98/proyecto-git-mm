@@ -1,2 +1,2 @@
-carpetaSecreta/ #ignora carpeta esté donde esté
-
+carpetaSecreta/             #ignora carpeta esté donde esté
+carpetaSecreta/password     #ignora archivo dentro de carpetaSecreta
