@@ -1,3 +1,5 @@
 Aquí viene tu diario
 
 Aqui anotamos ciertas pruebas 
+
+Aqui anotariamos el resultado de las pruebas
